@@ -1,0 +1,14 @@
+.body {
+    background-color:black;
+}
+.header {
+    border:2px solid white;
+    background-color:black;
+    text-align: center;
+    font-size:300%;
+    color:limegreen
+}
+.link{
+    font-size:200%;
+   color:white 
+}
